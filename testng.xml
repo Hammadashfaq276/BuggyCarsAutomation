@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="BuggyCarsSuite">
+
+    <!-- Attach listener globally -->
+    <listeners>
+        <listener class-name="com.buggy.Utility.ExtentReportListener"/>
+    </listeners>
+
+    <test name="All Tests">
+        <classes>
+            <class name="com.buggy.test.RegisterTest"/>
+            <class name="com.buggy.test.LoginTest"/>
+            <class name="com.buggy.test.ProfileTest"/>
+            <class name="com.buggy.test.CreateVote"/>
+        </classes>
+    </test>
+
+</suite>
