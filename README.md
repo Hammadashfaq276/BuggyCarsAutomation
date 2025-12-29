@@ -83,3 +83,5 @@ API tests validate backend responses and data consistency
 
 Ensures end-to-end application quality
 <img width="1943" height="507" alt="image" src="https://github.com/user-attachments/assets/e33b670a-42f7-4727-a24c-640b403bcb5d" />
+<img width="1909" height="888" alt="image" src="https://github.com/user-attachments/assets/ee52ea5b-01ea-4bfb-89d6-433b2b0690b1" />
+
